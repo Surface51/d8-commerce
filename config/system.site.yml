@@ -1,0 +1,14 @@
+uuid: 77789055-9b3d-4b0d-be05-67d47f01e46b
+name: commerce-s51
+mail: michelle@surface51.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
